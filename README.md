@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on tubeonai.com, virtualprofessor.io
+- 🔭 I’m currently working on [tubeonai.com](tubeonai.com), [virtualprofessor.io](virtualprofessor.io)
 
 <!--
 **mehdi89/mehdi89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
