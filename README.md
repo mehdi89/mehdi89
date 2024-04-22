@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [tubeonai.com](https://tubeonai.com), [virtualprofessor.io](https://virtualprofessor.io)
+- 🔭 I’m currently working as Software Engineer @ [Fruition](https://fruition.net/)
+- Past projects: [tubeonai.com](https://tubeonai.com), [virtualprofessor.io](https://virtualprofessor.io)
 
 <!--
 **mehdi89/mehdi89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
