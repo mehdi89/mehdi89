@@ -18,7 +18,5 @@ Python · FastAPI · TypeScript · Next.js · React · Node.js · LangChain · C
 
 ## Find me
 
-- Demo video: https://youtu.be/QA2JIk38m2g
 - LinkedIn: https://www.linkedin.com/in/mehdi89/
 - Upwork (Top Rated Plus, 100% Job Success): https://upwork.com/fl/mehedih17
-- Email: hasanmehdi89@gmail.com
